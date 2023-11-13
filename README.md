@@ -2,7 +2,6 @@
 Estou estudando para me tornar um programador fullstack.<br>Atualmente estou fazendo o curso de HTML5 e CSS3 do CursoemVideo com o Gustavo Guanabara.<br>pretendo cursar engenharia de software depois que terminar o EM.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yarlley31&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yarlley31&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarlley31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
