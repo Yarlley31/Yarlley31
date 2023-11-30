@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou estudando para me tornar um programador fullstack.<br>pretendo cursar engenharia de software depois que terminar o EM.
+Estou estudando para me tornar um programador fullstack.<br>pretendo cursar engenharia de software em um ano.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yarlley31&theme=dark&hide_border=false)<br/>
