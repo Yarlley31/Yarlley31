@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou estudando para me tornar um programador fullstack.<br>pretendo cursar engenharia da computação em 2025.
+Estou cursando Engenharia de Computação na UEFS.<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yarlley31&theme=dark&hide_border=false)<br/>
