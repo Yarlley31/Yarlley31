@@ -8,7 +8,7 @@ Estou cursando Engenharia de Computação na UEFS.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarlley31&hide=javascript,css,scss,html&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarlley31)](https://github.com/Yarlley31/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yarlley31&icon=0&color=0)](https://visitcount.itsvg.in)
