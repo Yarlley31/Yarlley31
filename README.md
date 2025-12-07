@@ -22,13 +22,16 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/C-darkblue">
   </a>
   <a href="https://godotengine.org/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Godot-navy">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Godot-green">
   </a>
   <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
     <img alt="Static Badge" src="https://img.shields.io/badge/Java-red">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML-pink">
+  </a>
+  <a href="https://www.w3schools.com/sql/sql_intro.asp">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQL-orange">
   </a>
 </p>
 
