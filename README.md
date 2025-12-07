@@ -1,5 +1,8 @@
-# 💫 About Me:
-Estou cursando Engenharia de Computação na UEFS.<br>
+### Hi! I'm Yarlley
+
+👨‍💻 Computer Engineering enthusiast sharing about my journey and learning in tech<br/>
+👨‍🎓 Studying computer engineering at the State University of Feira de Santana<br/>
+💻 Currently learning about Game development and Java<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yarlley31&theme=dark&hide_border=false)<br/>
@@ -8,7 +11,7 @@ Estou cursando Engenharia de Computação na UEFS.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarlley31&v=1)](https://github.com/Yarlley31/github-readme-stats)
+[![.](https://github-readme-stats.vercel.app/api?username=Yarlley31&)](https://github.com/Yarlley31/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yarlley31&icon=0&color=0)](https://visitcount.itsvg.in)
