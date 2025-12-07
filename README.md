@@ -12,10 +12,24 @@
 
 ## 🛠️ Tech & Tools
 <p align="center">
-  <a href="https://github.com/Yarlley31/estudos-c_cpp">
+  <a href="https://www.python.org/doc/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow">
+  </a>
+  <a href="https://cplusplus.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/C%2FC%2B%2B-blue">
   </a>
-  
+  <a href="https://www.c-language.org/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C-darkblue">
+  </a>
+  <a href="https://godotengine.org/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Godot-navy">
+  </a>
+  <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-red">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img alt="Static Badge" src="https://img.shields.io/badge/HTML-pink">
+  </a>
 </p>
 
 
