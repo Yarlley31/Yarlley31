@@ -6,19 +6,26 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yarlley31&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarlley31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## 🛠️ Tech & Tools
+<p align="center">
+  <a href="https://github.com/Yarlley31/estudos-c_cpp">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2FC%2B%2B-blue">
+  </a>
+  
+</p>
+
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarlley31&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yarlley31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
