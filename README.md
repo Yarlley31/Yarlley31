@@ -35,8 +35,7 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarlley31)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarlley31&show_icons=true&theme=tokyonight)
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
