@@ -1,8 +1,8 @@
 ### Hi! I'm Yarlley
 
 👨‍💻 Computer Engineering enthusiast sharing about my journey and learning in tech<br/>
-👨‍🎓 Studying computer engineering at the State University of Feira de Santana<br/>
-💻 Currently learning about Game development and Java<br/>
+👨‍🎓 Studying <a href="https://www.ecomp.uefs.br/home">computer engineering at the State University of Feira de Santana</a><br/>
+💻 Currently learning about <a href="https://github.com/Yarlley31/Ceci-s-Game">Game development</a> and <a href="https://github.com/Yarlley31/learning-java">Java</a><br/>
 
 ---
 
